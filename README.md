@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashu-kumar-8b2344267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashu-kumar-8b2344267/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashuyadav2030/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashuyadav2030/" height="30" width="40" /></a>
 <a href="https://kaggle.com/ashukumar008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashukumar008" height="30" width="40" /></a>
 </p>
 
