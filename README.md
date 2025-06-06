@@ -34,10 +34,10 @@
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="80" height="80"/>
 </a>
 <a href="https://langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://python.langchain.com/img/brand/wordmark.png" alt="LangChain" width="80" height="40"/>
+  <img src="https://python.langchain.com/img/brand/wordmark.png" alt="LangChain" width="120" height="40"/>
 </a>
 <a href="https://www.chromadb.com/" target="_blank" rel="noreferrer">
-  <img src="https://images.seeklogo.com/logo-png/48/1/chroma-logo-png_seeklogo-482133.png" alt="ChromaDB" width="40" height="40"/>
+  <img src="https://images.seeklogo.com/logo-png/48/1/chroma-logo-png_seeklogo-482133.png" alt="ChromaDB" width="80" height="40"/>
 </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
   <img src="YOUR_IMAGE_URL" alt="FastAPI" width="40" height="40"/>
