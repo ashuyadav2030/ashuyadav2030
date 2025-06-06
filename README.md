@@ -28,7 +28,7 @@
   <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="50" height="40"/>
 </a>
 <a href="https://github.com/ultralytics/ultralytics" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Reverse.svg" alt="Ultralytics" width="80" height="80"/>
+  <img src="https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/64777c3e071ec953437e6950_logo.svg" alt="Ultralytics" width="80" height="80"/>
 </a>
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
   <img src="YOUR_IMAGE_URL" alt="Hugging Face" width="40" height="40"/>
