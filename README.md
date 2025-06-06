@@ -40,13 +40,13 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0DeJ0MkGPOOufb_S8pdk6_u9BVXIJp_09vQ&s" alt="ChromaDB" width="80" height="40"/>
 </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/>
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="80" height="40"/>
 </a>
-<a href="https://www.faiss.ai/" target="_blank" rel="noreferrer">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ikA5IEkytlY4hHF97o6w5QZ1zIDFU87DZw&s" alt="FAISS" width="40" height="40"/>
+<a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ikA5IEkytlY4hHF97o6w5QZ1zIDFU87DZw&s" alt="PINECONE" width="80" height="80"/>
 </a>
 <a href="https://onnx.ai/" target="_blank" rel="noreferrer">
-  <img src="https://onnx.ai/images/ONNX-Logo.svg" alt="ONNX" width="40" height="40"/>
+  <img src="https://onnx.ai/images/ONNX-Logo.svg" alt="ONNX" width="80" height="80"/>
 </a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf8ZwQVJ4EjnO8oWqjAZGEy-IbyqfLCcmYHg&s" alt="AWS" width="40" height="40"/>
