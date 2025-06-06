@@ -16,7 +16,7 @@
 <p align="left">
 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/375px-PyTorch_logo_black.svg.png" alt="PyTorch" width="80" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/375px-PyTorch_logo_black.svg.png" alt="PyTorch" width="100" height="40"/>
 </a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
   <img src="https://www.gstatic.com/devrel-devsite/prod/vd9663438c989ac592eff7c92ff013bc8fa2578bc40babda19f4e44265d95782f/tensorflow/images/lockup.svg" alt="TensorFlow" width="80" height="40"/>
@@ -25,10 +25,10 @@
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="80" height="40"/>
 </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-  <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="80" height="40"/>
+  <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="50" height="40"/>
 </a>
 <a href="https://github.com/ultralytics/ultralytics" target="_blank" rel="noreferrer">
-  <img src="YOUR_IMAGE_URL" alt="YOLOv8" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Reverse.svg" alt="Ultralytics" width="80" height="80"/>
 </a>
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
   <img src="YOUR_IMAGE_URL" alt="Hugging Face" width="40" height="40"/>
