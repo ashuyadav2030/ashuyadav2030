@@ -19,7 +19,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/375px-PyTorch_logo_black.svg.png" alt="PyTorch" width="80" height="40"/>
 </a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-  <img src="YOUR_IMAGE_URL" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://www.gstatic.com/devrel-devsite/prod/vd9663438c989ac592eff7c92ff013bc8fa2578bc40babda19f4e44265d95782f/tensorflow/images/lockup.svg" alt="TensorFlow" width="80" height="40"/>
 </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
   <img src="YOUR_IMAGE_URL" alt="Scikit-learn" width="40" height="40"/>
