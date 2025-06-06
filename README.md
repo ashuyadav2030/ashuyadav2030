@@ -34,7 +34,7 @@
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="80" height="80"/>
 </a>
 <a href="https://langchain.com/" target="_blank" rel="noreferrer">
-  <img src="YOUR_IMAGE_URL" alt="LangChain" width="40" height="40"/>
+  <img src="https://python.langchain.com/img/brand/wordmark.png" alt="LangChain" width="40" height="40"/>
 </a>
 <a href="https://www.chromadb.com/" target="_blank" rel="noreferrer">
   <img src="YOUR_IMAGE_URL" alt="ChromaDB" width="40" height="40"/>
