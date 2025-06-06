@@ -31,7 +31,7 @@
   <img src="https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/64777c3e071ec953437e6950_logo.svg" alt="Ultralytics" width="100" height="80"/>
 </a>
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-  <img src="YOUR_IMAGE_URL" alt="Hugging Face" width="40" height="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="80" height="80"/>
 </a>
 <a href="https://langchain.com/" target="_blank" rel="noreferrer">
   <img src="YOUR_IMAGE_URL" alt="LangChain" width="40" height="40"/>
