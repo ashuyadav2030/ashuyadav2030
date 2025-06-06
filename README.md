@@ -22,7 +22,7 @@
   <img src="https://www.gstatic.com/devrel-devsite/prod/vd9663438c989ac592eff7c92ff013bc8fa2578bc40babda19f4e44265d95782f/tensorflow/images/lockup.svg" alt="TensorFlow" width="80" height="40"/>
 </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="YOUR_IMAGE_URL" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="80" height="40"/>
 </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer">
   <img src="YOUR_IMAGE_URL" alt="OpenCV" width="40" height="40"/>
