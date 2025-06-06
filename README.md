@@ -16,7 +16,7 @@
 <p align="left">
 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/375px-PyTorch_logo_black.svg.png" alt="PyTorch" width="80" height="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/375px-PyTorch_logo_black.svg.png" alt="PyTorch" width="40" height="40"/>
 </a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
   <img src="YOUR_IMAGE_URL" alt="TensorFlow" width="40" height="40"/>
