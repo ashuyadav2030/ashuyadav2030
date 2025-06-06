@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashu Kumar</h1>
-<h3 align="center">A data-driven enthusiast and practitioner leveraging insights to solve complex problems and drive informed decision-making.</h3>
+<h3 align="center">Machine Learning Engineer | Specializing in Computer Vision, NLP, and AI Automation. Experienced in YOLOv8 object detection, face recognition, LLM chatbots, AI agents, and FastAPI backends.</h3>
 
 
 <img align ="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-M9_UbOYfCQuIFjULoJP_-ycy_R2eXiJxJi-nrOaJJyBeeOtYnYYkp7tDjAGByJuCoAk&usqp=CAU">
