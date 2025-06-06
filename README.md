@@ -25,7 +25,7 @@
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="80" height="40"/>
 </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-  <img src="YOUR_IMAGE_URL" alt="OpenCV" width="40" height="40"/>
+  <img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="80" height="40"/>
 </a>
 <a href="https://github.com/ultralytics/ultralytics" target="_blank" rel="noreferrer">
   <img src="YOUR_IMAGE_URL" alt="YOLOv8" width="40" height="40"/>
